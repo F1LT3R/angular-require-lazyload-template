@@ -20,9 +20,11 @@ The Definition of a Core Module is two-fold:
 
 
 
-Research:
+## Research
 
  - [Lazy Loading in AngularJS](http://ify.io/lazy-loading-in-angularjs/) - Ifeanyi Isitor
  - [angularAMD](http://marcoslin.github.io/angularAMD/) - Marcoslin
  - [Dynamically Loading Controllers & Views With AngularJS & RequireJS](http://weblogs.asp.net/dwahlin/dynamically-loading-controllers-and-views-with-angularjs-and-requirejs) - Dan Wahlin
  - [Dynamically Loading Directives in AngularJS the Easy Way](http://www.debuggerstepthrough.com/2014/11/dynamically-loading-directives-in.html]) - Gilly Barr
+ - [Instant Dependency Management with RequireJs](http://www.amazon.com/gp/product/B00CXRTC1Q) - Book by Greg Franko
+ - [Pro AngularJS](http://www.amazon.com/gp/product/B00CXRTC1Q) - Book by Adam Freeman
