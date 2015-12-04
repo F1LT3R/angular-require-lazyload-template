@@ -1,4 +1,4 @@
-# Angular LazyLoad CookieCutter
+# Angular Require LazyLoad Template
 
 An AngularJS + Ui-Router + RequireJS cookie cutter: for creating web-applications that fetches controllers, modules and CSS, after Angular has been bootstrapped, resolving their dependencies as the route changes.
 
