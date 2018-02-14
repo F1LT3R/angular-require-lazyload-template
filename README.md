@@ -10,16 +10,20 @@ This is a cookie-cutter project for Angular 1, that provides true lazy-loading f
 
 You can more about the [lazy-loading software design pattern](https://en.wikipedia.org/wiki/Lazy_loading) on Wikipedia.
 
-### Example
+### Step 1
 
 ![Step 1](https://i.imgur.com/h0Wd7S3.jpg)
 
+### Step 2
+
 ![Step 2](https://i.imgur.com/XWWW9of.jpg)
+
+### Step 3
 
 ![Step 3](https://i.imgur.com/O67fMA9.jpg)
 
 
-### Who is it For? 
+## Who is it For? 
 
 
 This paradigm lends itself well to any app that you would like to load very quickly. It is particularly well suited for mobile applications where you would like to reduce the size of the initial payload that your app needs to start running and show the first screen. All following screens, directives, controllers, etc. are loaded after the app has been bootstrapped.
