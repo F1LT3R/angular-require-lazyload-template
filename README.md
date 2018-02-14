@@ -2,21 +2,21 @@
 
 > Load your apps resources, as you need them.
 
+Try out the demo: [http://f1lt3r.github.io/angular-require-lazyload-template/](http://f1lt3r.github.io/angular-require-lazyload-template/)
+
 ## What is This?
 
 This is a cookie-cutter project for Angular 1, that provides true lazy-loading features. The dependencies are resolved on-demand as the route changes. If the user only sees 10% of your app, only ~10% of your code is downloaded! Previously loaded resources are fetched from the browser's cache.
 
-Try out the demo: [http://f1lt3r.github.io/angular-require-lazyload-template/](http://f1lt3r.github.io/angular-require-lazyload-template/)
-
-Read more about the [lazy-loading software design pattern](https://en.wikipedia.org/wiki/Lazy_loading) on Wikipedia.
+You can more about the [lazy-loading software design pattern](https://en.wikipedia.org/wiki/Lazy_loading) on Wikipedia.
 
 ### Example
 
-[Step 1](https://i.imgur.com/h0Wd7S3.jpg)
+![Step 1](https://i.imgur.com/h0Wd7S3.jpg)
 
-[Step 2](https://i.imgur.com/XWWW9of.jpg)
+![Step 2](https://i.imgur.com/XWWW9of.jpg)
 
-[Step 3](https://i.imgur.com/O67fMA9.jpg)
+![Step 3](https://i.imgur.com/O67fMA9.jpg)
 
 
 ### Who is it For? 
